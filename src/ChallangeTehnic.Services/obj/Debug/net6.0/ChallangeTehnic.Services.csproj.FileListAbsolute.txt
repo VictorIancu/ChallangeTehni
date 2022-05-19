@@ -1,0 +1,15 @@
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\bin\Debug\net6.0\ChallangeTehnic.Services.deps.json
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\bin\Debug\net6.0\ChallangeTehnic.Services.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\bin\Debug\net6.0\ChallangeTehnic.Services.pdb
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\bin\Debug\net6.0\ChallangeTehnic.Models.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\bin\Debug\net6.0\ChallangeTehnic.Models.pdb
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.csproj.AssemblyReference.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.AssemblyInfoInputs.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.AssemblyInfo.cs
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.csproj.CoreCompileInputs.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.csproj.CopyComplete
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\refint\ChallangeTehnic.Services.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ChallangeTehnic.Services.pdb
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Services\obj\Debug\net6.0\ref\ChallangeTehnic.Services.dll

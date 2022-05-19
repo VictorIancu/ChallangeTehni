@@ -1,0 +1,12 @@
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\bin\Debug\net6.0\ChallangeTehnic.Models.deps.json
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\bin\Debug\net6.0\ChallangeTehnic.Models.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\bin\Debug\net6.0\ChallangeTehnic.Models.pdb
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.csproj.AssemblyReference.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.AssemblyInfoInputs.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.AssemblyInfo.cs
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.csproj.CoreCompileInputs.cache
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\refint\ChallangeTehnic.Models.dll
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ChallangeTehnic.Models.pdb
+C:\Users\victor.iancu\Documente_Nesincronizate\Projects\ChallangeTehnic\src\ChallangeTehnic.Models\obj\Debug\net6.0\ref\ChallangeTehnic.Models.dll

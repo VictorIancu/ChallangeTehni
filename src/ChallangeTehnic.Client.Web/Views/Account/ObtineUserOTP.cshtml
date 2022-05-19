@@ -1,0 +1,65 @@
+﻿@model ChallangeTehnic.Models.Models.OTPRequestModel
+@{
+    var utilizator = ViewData["Utilizator"] as ChallangeTehnic.Models.Models.UtilizatorModel;
+    string p = utilizator?.OTP?.OTPassword ?? "";
+    var d = utilizator?.OTP?.OTPCreatLaDataUTC ?? new DateTime();
+    ViewData["Title"] = "Te rog confirma parola afisata";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bine ai venit @utilizator?.Nume </h1>
+    <h3 class="display-4">@ViewData["Title"]</h3>
+</div>
+<div class="row">
+    <hr />
+    <div class="col-md-4">
+        <section>
+            <div class="p-3 mb-2 bg-light text-dark">
+                <h5>Cod conectare:</h5>
+                <p>@p</p>
+                <p id="contor">
+                </p>
+            </div>
+        </section>
+    </div>
+    <hr />
+    <div class="col-md-4">
+        <section>
+            <form id="otp-form" method="post" asp-controller="Account" asp-action="ObtineUserOTP">
+
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <input type="hidden" asp-for="OTPCurent" />
+                    <input type="hidden" asp-for="OTPCreatLaDataUTC" />
+                    <input type="hidden" asp-for="UtilizatorId" />
+
+                    <label asp-for="OTP"></label>
+                    <input asp-for="OTP" class="form-control" />
+                    <span asp-validation-for="OTP" class="text-danger"></span>
+                </div>
+                <div class="row">
+
+                    <div class="col-sm-2">
+                        <button type="submit" id="valideaza-otp" asp-action="ObtineUserOTP"
+                            class="btn btn-primary valideaza-otp">Mergi</button>
+                    </div>
+                    <div class="col">
+                        <a id="regenereaza-otp" asp-action="VerificaUtilizator" asp-route-utilizatorId="@utilizator?.Id"
+                            class="btn btn-info regenereaza-otp invisible">Regenereaza</a>
+                    </div>
+
+
+                </div>
+
+            </form>
+        </section>
+    </div>
+
+</div>
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+
+
+}
